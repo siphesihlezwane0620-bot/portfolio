@@ -1,1 +1,10 @@
 # Portfolio
+portfolio
+│
+├── index.html
+├── about.html
+├── projects.html
+├── skills.html
+├── contact.html
+├── style.css
+└── images
